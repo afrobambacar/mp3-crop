@@ -8,7 +8,7 @@ Installing `node-fluent-ffmpeg`
 $ npm install
 ```
 
-Cropping `src/input.mp3` to `src/output.mp3`.
+Cropping `src/input.mp3` then create output version in `src/output.mp3`.
 
 ```
 $ node crop.js
